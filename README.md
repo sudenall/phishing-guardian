@@ -173,14 +173,9 @@ Once outputs are generated, the Streamlit dashboard automatically loads all resu
 
 ## 🖼️ Screenshots
 
-```markdown
-![Dashboard Home](outputs/dashboard_home.png)
-![Email Analysis](outputs/email_analysis.png)
-![Confusion Matrix](outputs/confusion_matrix_v2.png)
-![ROC Curve](outputs/roc_curve_v2.png)
-![Feature Importance](outputs/feature_importance_v2.png)
-![Enron Analysis](outputs/enron_pie_chart.png)
+https://drive.google.com/file/d/132SXMwjw_CqwnWD7DlbM2mg357RRmOqF/view?usp=sharing 
 
+All of the visual parts, you can reach via this link.
 ``` 
 
 ## 📌 About
