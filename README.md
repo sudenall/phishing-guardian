@@ -173,8 +173,6 @@ Once outputs are generated, the Streamlit dashboard automatically loads all resu
 
 ## 🖼️ Screenshots
 
-Recommended visuals to include in this README:
-
 ```markdown
 ![Dashboard Home](outputs/dashboard_home.png)
 ![Email Analysis](outputs/email_analysis.png)
